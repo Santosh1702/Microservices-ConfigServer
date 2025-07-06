@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: prod
+#spring:
+#  application:
+#    name: prod
 
 eureka:
   instance:
